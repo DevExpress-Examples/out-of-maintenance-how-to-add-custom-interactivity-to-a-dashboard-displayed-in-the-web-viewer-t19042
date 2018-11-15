@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Dashboard1.cs](./CS/Dashboard_CustomVisualInteractivity_Web/Dashboard1.cs) (VB: [Dashboard1.vb](./VB/Dashboard_CustomVisualInteractivity_Web/Dashboard1.vb))
+* [CustomInteractivity.js](./CS/Dashboard_CustomVisualInteractivity_Web/Scripts/CustomInteractivity.js) (VB: [CustomInteractivity.js](./VB/Dashboard_CustomVisualInteractivity_Web/Scripts/CustomInteractivity.js))
+* [WebForm1.aspx](./CS/Dashboard_CustomVisualInteractivity_Web/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_CustomVisualInteractivity_Web/WebForm1.aspx))
+<!-- default file list end -->
 # How to add custom interactivity to a dashboard displayed in the Web Viewer
 
 
