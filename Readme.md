@@ -6,6 +6,9 @@
 * [WebForm1.aspx](./CS/Dashboard_CustomVisualInteractivity_Web/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/Dashboard_CustomVisualInteractivity_Web/WebForm1.aspx))
 <!-- default file list end -->
 # How to add custom interactivity to a dashboard displayed in the Web Viewer
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t190426)**
+<!-- run online end -->
 
 
 <strong>Note:</strong> <em>Starting with v17.1, we recommend using the <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16976.aspx">ASPxDashboard control</a> or a corresponding <a href="https://documentation.devexpress.com/Dashboard/CustomDocument16977.aspx">ASP.NET MVC extension</a> to display dashboards within web applications.</em><br><br>The <a href="http://documentation.devexpress.com/#Dashboard/CustomDocument15364">Web Viewer</a> allows you to add a custom interactivity to dashboards using the <a href="http://documentation.devexpress.com/#Dashboard/DevExpressDashboardWebScriptsASPxClientDashboardViewer_ItemVisualInteractivitytopic">ItemVisualInteractivity</a> event.<br>This example demonstrates the following capabilities
