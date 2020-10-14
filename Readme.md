@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to add custom interactivity to a dashboard displayed in the Web Viewer
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t190426)**
+**[[Run Online]](https://codecentral.devexpress.com/t190426/)**
 <!-- run online end -->
 
 
